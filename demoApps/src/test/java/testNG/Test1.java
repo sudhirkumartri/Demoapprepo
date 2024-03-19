@@ -21,6 +21,10 @@ public class Test1 {
 	}
 	
 	@Test
+	public void zspiders() {
+		System.out.println("This is Zspiders");
+	}
+	@Test
 	public void demoTest() {
 		System.out.println("Hello world");
 	}
